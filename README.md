@@ -21,8 +21,10 @@
 
 8. Чтобы закоммитить свои изменения в проект выбираем [`название branch'а`] и здесь делаем `Stage all changes` после, пишем описание к коммиту и жмём на commit.
 ![Commit](https://i.imgur.com/4sGJxiA.png)
+
 Далее жмём Push 
 ![Push](https://i.imgur.com/12uTkYx.png)
+
 Если спрашивает про LFS - жмём Yes
 
 
